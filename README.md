@@ -29,7 +29,10 @@ is structured so that Tasks are provided with Canvases to bind to, with Canvases
 actual views in the Android system.
 
 Tasks can also handle process-restart persistence of state via storing and reloading data from
-Wads, although the Wad implementation is currently quite primitive. The wad system is designed to
-be used for handling process restarts, so it is slightly different than the typical Android
-saveInstanceState system. Since the tasks are intended to live at the application level, storing
-state across orientation changes and other non-process restart occurrences
+Wads, although the Wad implementation is currently quite primitive. The wad system is intended to
+be used for handling process restarts, so its usage is slightly different than the typical Android
+saveInstanceState system and wrappers around that system. Since the tasks are intended to live
+at the application level, storing state across orientation changes and other non-process
+restart occurrences is not necessary, so the data in the wads can be a bit briefer since they
+are not used as often as instance bundles. That said, due to limitations of the system, they are
+written to on orientation changes even if they are not read from after an orientation change.
