@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_french_oak">French Oak</string>
+    <string name="name_hungarian_oak">Hungarian Oak</string>
+    <string name="name_american_oak">American Oak</string>
+    <string name="name_pet">PET</string>
+    <string name="name_stainless_steel">Stainless Steel</string>
+    <string name="name_clay">Clay</string>
+    <string name="name_hdpe">HDPE</string>
+    <string name="name_other">Other</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="short_capacity_description">%1$.2f%2$s</string>
+    <string name="abbrev_hectoliter">hL</string>
+    <string name="abbrev_beer_barrel">bbl</string>
+    <string name="abbrev_liter">L</string>
+    <string name="abbrev_us_gal">gal</string>
+</resources>

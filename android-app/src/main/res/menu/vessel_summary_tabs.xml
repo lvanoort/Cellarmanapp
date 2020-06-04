@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_vessel"
+        android:title="Summary"
+        android:icon="@drawable/ic_summary_black_24dp"
+        ></item>
+    <item
+        android:id="@+id/menu_item_fills"
+        android:title="Fills"
+        android:icon="@drawable/ic_fills_black_24dp"
+        ></item>
+    <item
+        android:id="@+id/menu_item_samples"
+        android:title="Samples"
+        android:icon="@drawable/ic_sample_black_24dp"
+        ></item>
+</menu>

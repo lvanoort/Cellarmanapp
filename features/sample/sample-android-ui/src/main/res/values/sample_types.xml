@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string-array name="sample_types_array">-->
+<!--        <item id="@+id/sampletype_generic">Generic</item>-->
+<!--        <item id="@+id/sampletype_beer">Beer</item>-->
+<!--    </string-array>-->
+    <string name="sampletype_generic">Generic</string>
+    <string name="sampletype_beer">Beer</string>
+
+</resources>

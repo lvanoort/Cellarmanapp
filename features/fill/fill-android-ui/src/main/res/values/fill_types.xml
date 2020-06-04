@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filltype_wine">Wine</string>
+    <string name="filltype_beer">Beer</string>
+    <string name="filltype_gin">Gin</string>
+    <string name="filltype_whisky">Whisky</string>
+    <string name="filltype_water">Water</string>
+    <string name="filltype_holding_solution">Holding Solution</string>
+    <string name="filltype_sulphur_dioxide">Sulphur Dioxide</string>
+    <string name="filltype_air">Air</string>
+    <string name="filltype_pbw">PBW</string>
+    <string name="filltype_starsan">StarSan</string>
+    <string name="filltype_other">Other</string>
+</resources>
